@@ -12,6 +12,7 @@
     font-size:15px;
     color: rgb(0, 0, 0);
     border: 5px solid rgb(34, 36, 146);
+
 }
 /* .ProfileDescription{
     text-align: start;
@@ -24,6 +25,7 @@
 } */
 .Education{
     margin-top: 35px;
+    margin-bottom: 10px;
 }
 #Aboutme , #Education{
 width:fit-content;
@@ -47,6 +49,7 @@ margin:auto;
         rgba(0, 0, 0, 0.12) 0px -12px 30px, rgb(0, 0, 0) 0px 4px 6px,
         rgba(0, 0, 0, 0.17) 0px 12px 13px, rgb(0, 0, 0) 0px -3px 5px;
         color: rgb(251, 251, 251);
+        margin-top: 15px;
 }
 .IconPicture{
     width: 200px;
