@@ -71,8 +71,8 @@ function Experience() {
               <li>Unsure security scan and remediation (SQL Injection).</li>
               <li>
                 {" "}
-                Build, test and maintain windows and web applications for more
-                than 500 users (Full-time, Contractors, Interns ...).
+                Build, test and maintain windows and web applications for
+                500+ users (Full-time, Contractors, Interns ...).
               </li>
             </ul>
           </div>

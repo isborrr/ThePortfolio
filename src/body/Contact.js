@@ -16,8 +16,8 @@ function Contact() {
       <div className="PhoneNumber"><strong>Phone</strong>: 3476155308</div>
       </div>
       <div>
-      <strong>LinkedIn:</strong>linkedin.com/in/ismaela-boro<br/>
-      <strong>GitHub:</strong> https://github.com/isborrr
+      <strong>LinkedIn:</strong><a href="https://www.linkedin.com/in/ismaela-boro/">linkedin.com/in/ismaela-boro</a><br/>
+      <strong>GitHub:</strong><a href="https://github.com/isborrr"> https://github.com/isborrr </a>
       </div>
       </div>
     </div>

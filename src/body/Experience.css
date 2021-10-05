@@ -64,6 +64,7 @@ box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
 }
 .JobDetailText{
     padding: 2rem;
+    width: 75%;
 }
 .Job1DetailPic{
     width: 250px;
@@ -73,5 +74,5 @@ box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
     display:flex;
 }
 .flexJBComp{
-    width: 80%;
+    width: 75%;
 }
