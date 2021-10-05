@@ -32,7 +32,7 @@ function Experience() {
             <br />
           </ul>
         </div>
-        <img className="" src={DeveloperIcon} alt="logo" />
+        <img className="develperImg" src={DeveloperIcon} alt="logo" />
       </div>
       <h2 id="PExprience">PROFESIONAL EXPERIENCE</h2>
       <div className="WorkExperience1">
@@ -43,10 +43,10 @@ function Experience() {
               <br /> <br />
               <i>Role: IT operations</i>
             </di>
-            <di>
+            <div>
               Albany, NY <br /> <br />
               March 2021-Present
-            </di>
+            </div>
           </div>
         </h4>
         <br />
@@ -82,15 +82,15 @@ function Experience() {
       <div className="WorkExperience2">
         <h4 className="Job">
           <div className="jobCompany flexJB">
-            <di className="flexJBComp">
+            <div className="flexJBComp">
               Code the Dream
               <br /> <br />
               <i>Role: Web developer</i>
-            </di>
-            <di>
+            </div>
+            <div>
               Remote (North Carolina) <br /> <br />
               2020 – 2021
-            </di>
+            </div>
           </div>
         </h4>
         <br />

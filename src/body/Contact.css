@@ -40,3 +40,47 @@ box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
 .PhoneNumber, .EmailAdress{
   align-self: center;
 }
+
+@media only screen and (max-width: 805px) {
+  .ContactInfo{
+    width: 90%;
+  }
+
+  .CenterContactInfo{
+    width: 100%;
+  /* display: inline-table; */
+  align-self: center;
+  /* padding: 10px;
+  font-size: 25px; */
+  }
+  .FlexContactInfo{
+    width: fit-content;
+  }
+  .PhoneNumber, .EmailAdress{
+    align-self:auto;
+  }
+}
+
+@media only screen and (max-width: 465px) {
+  .ContactIconPicture{
+    width: 50px;
+    height: 50px;
+    padding: 1px;
+    margin:8px;
+    box-shadow: rgba(0, 0, 0, 0.25) 54px 54px 55px,
+    rgba(0, 0, 0, 0.12) 12px 12px 30px, rgba(124, 119, 119, 0.596) 12px 4px 6px,
+    rgba(0, 0, 0, 0.17) 12px 12px 13px, rgba(133, 125, 125, 0.356) 12px -3px 5px;
+    border-radius:10px;
+  }
+  .FlexContactInfo{
+    width: 90%;
+    margin-bottom: 2rem;
+    display:inline;
+  }
+  .CenterContactInfo{
+    padding: 1px;
+    font-size: 15px;
+
+  }
+
+}

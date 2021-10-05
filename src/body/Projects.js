@@ -9,8 +9,9 @@ function Projects() {
         height="650"
         webkitallowfullscreen
         mozallowfullscreen
-        allowfullscreen
-        frameborder="0"
+        allowFullScreen
+        frameBorder="0"
+        title="My"
       ></iframe>
     </div>
   );

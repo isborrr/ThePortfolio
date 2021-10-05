@@ -2,7 +2,7 @@ import React from "react";
 // import Graduation from "../ProfileImages/Graduation.png";
 import Bootcamp from "../ProfileImages/Bootcamp.jpeg";
 import Certificate from "../ProfileImages/Certificate.jpeg";
-import Certificateicon from "../ProfileImages/certificate-icon.png";
+
 import Graduation from "../ProfileImages/goldStarRounded.jpeg";
 import "./Profile.css";
 function Profile() {

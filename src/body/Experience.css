@@ -76,3 +76,41 @@ box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
 .flexJBComp{
     width: 75%;
 }
+
+@media only screen and (max-width: 805px) {
+    .JobDetail{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .JobDetailText{
+    padding: 1%;
+    width: 100%;
+}
+.Job1DetailPic{
+    width: 80%;
+    margin: auto;
+}
+    .exprience{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-bottom: 20px;
+
+    }
+    ul{
+        width: 100%;
+        margin: auto;
+    }
+    .develperImg{
+        width: 80%;
+        margin: auto;
+    }
+    .ProfileDescriptionText{
+        width: 100%;
+        margin: auto;
+        margin-top: 1%;
+    }
+
+  }

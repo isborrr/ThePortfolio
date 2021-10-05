@@ -5,6 +5,7 @@ import Experience from "../body/Experience.js";
 import Projects from "../body/Projects.js";
 import Contact from "../body/Contact.js";
 import "../header/Header.css";
+import "../header/smallscreen.css"
 import profileImg from "../Images/ProfileImg.JPG";
 // function ProfileDisplay() {
 //   ProfileDisplayState = "none";
@@ -52,8 +53,8 @@ function Header() {
         <div className="Profile-Bgrd"></div>
         </div>
         <img className="ProfilePicture" src={profileImg} alt="logo" />
-        <div class="NavbarContain">
-        <div class="Navbar">
+        <div className="NavbarContain">
+        <div className="Navbar">
           <div className="welcomeText">
             <h2>Welcome to my portfolio</h2>
             {/* <p>
@@ -63,13 +64,13 @@ function Header() {
           </p> */}
             <button
               type="button"
-              class="btn btn-success mb-1"
+              className="btn btn-success mb-1"
               data-toggle="collapse"
               data-target="#demo"
             >
               WHO I AM
             </button>
-            <div id="demo" class="">
+            <div id="demo" className="">
               <button
                 className="btn btn-primary navBtn"
                 onClick={ProfileDisplayFuct}
