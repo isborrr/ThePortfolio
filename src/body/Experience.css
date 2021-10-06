@@ -85,12 +85,15 @@ box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
     }
 
     .JobDetailText{
+    margin-bottom: 1px;
     padding: 1%;
     width: 100%;
 }
 .Job1DetailPic{
     width: 80%;
     margin: auto;
+    margin-top: 1px;
+    margin-bottom: 1px;
 }
     .exprience{
         display: flex;
@@ -102,15 +105,28 @@ box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
     ul{
         width: 100%;
         margin: auto;
+        margin-bottom: 1px;
     }
     .develperImg{
-        width: 80%;
+        width: 250px;
+        width: 250px;
         margin: auto;
+        margin-top: 1px;
+        margin-bottom: 1px;
     }
     .ProfileDescriptionText{
         width: 100%;
         margin: auto;
         margin-top: 1%;
+    }
+    .exprience,.WorkExperience1, .WorkExperience2{
+        width: 90%;
+        padding: 1px;
+    }
+    .PexprienceDetail{
+        margin-bottom: 1px;
+        padding: 10px;
+
     }
 
   }
