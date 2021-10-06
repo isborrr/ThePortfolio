@@ -36,6 +36,8 @@ function Profile() {
         <div className="FlexJustContain">
           <div className="College">
             <h3 className="EducationSubtitles">COLLEGE</h3>
+            QUEENS COLLEGE<br />
+            MAJOR : COMPUTER SCIENCE GPA: 3.76 <br /><br />
             LAGUARDIA COMMUNITY COLLEGE <br />
             MAJOR : COMPUTER SCIENCE GPA: 3.75 <br />
           </div>
