@@ -11,7 +11,7 @@ function Experience() {
         <div className="PexprienceDetail">
           <div className="ProfileDescriptionText"></div>
           <ul>
-            <li> 2 years of experience in the web development ecosystem.</li>
+            <li> 4 years of experience in the web development ecosystem.</li>
             <li>
               {" "}
               Ability to troubleshoot and tune relevant programming languages.{" "}
@@ -54,7 +54,7 @@ function Experience() {
           <div className="JobDetailText">
             <ul>
               <li>
-                Work with C#, Visualbasic, ASP.NET, jQuery, React, SSMS and
+                Work with React, jQuery, SSMS, Java, Visualbasic, ASP.NET and
                 Microsoft azure in an IT team.
               </li>
               <li>

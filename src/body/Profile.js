@@ -15,7 +15,7 @@ function Profile() {
           My name is <strong>Ismael Boro</strong>. <br />I am a{" "}
           <strong>computer science</strong> major who graduate with a{" "}
           <strong>GPA of 3.75</strong>.<br /> I am a very{" "}
-          <strong>focused and detail-oriented programmer</strong> with over two
+          <strong>focused and detail-oriented programmer</strong> with over four
           years of experience.
           <br /> I also participated in a 12-month web development Bootcamp
           where I learned the leading technologies of the work field.
@@ -37,9 +37,9 @@ function Profile() {
           <div className="College">
             <h3 className="EducationSubtitles">COLLEGE</h3>
             QUEENS COLLEGE<br />
-            MAJOR : COMPUTER SCIENCE GPA: 3.76 <br /><br />
+            MAJOR : COMPUTER SCIENCE GPA: 3.75 <br /><br />
             LAGUARDIA COMMUNITY COLLEGE <br />
-            MAJOR : COMPUTER SCIENCE GPA: 3.75 <br />
+            MAJOR : COMPUTER SCIENCE GPA: 3.66 <br />
           </div>
           <div>
             <img className="IconPicture" src={Graduation} alt="logo" />
